@@ -6,6 +6,7 @@
   ## **_Guía_**
 
     ### 1. **Conceptos Previos**
+
     **Transacciones Bitcoin:**
     - Las transacciones están serializadas en un formato binario compacto.
     - Decodificar una transacción implica interpretar sus entradas y salidas.

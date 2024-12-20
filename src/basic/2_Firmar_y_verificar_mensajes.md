@@ -6,6 +6,7 @@
   ## **_Guía_**
 
     ### 1. **Conceptos Previos**
+    
     **Firmas Digitales:**
     - Una firma digital permite autenticar un mensaje, garantizando que proviene de un remitente específico (clave privada).
     - Utiliza criptografía de clave pública (secp256k1 en Bitcoin).
