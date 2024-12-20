@@ -105,3 +105,48 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
   brew install openssl
   cargo build
   ```
+---
+
+## Recursos Adicionales
+
+- [Documentación oficial de Rust](https://doc.rust-lang.org/)
+- [Bitcoin Developer Documentation](https://developer.bitcoin.org/)
+- [Libro "Mastering Bitcoin" de Andreas M. Antonopoulos](https://github.com/bitcoinbook/bitcoinbook)
+
+---
+
+## Contribuciones
+
+Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama:
+   ```bash  
+   git checkout -b feature/nueva-feature
+   ```
+3. Haz tus cambios y commitea:
+   ```bash  
+   git commit -am 'Añadir nueva feature'
+   ```
+4. Empuja la rama:
+   ```bash  
+   git push origin feature/nueva-feature
+   ```
+5. Abre un Pull Request.
+
+---
+
+## Preguntas Frecuentes (FAQ)
+¿Necesito conocimientos previos de Rust?
+
+No es necesario, pero se recomienda tener una comprensión básica de programación.
+
+¿Puedo usar otro editor de texto?
+
+Sí, pero Visual Studio Code con la extensión rust-analyzer es altamente recomendado para una mejor experiencia.
+
+---
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Puedes ver los detalles completos en el archivo LICENSE.
