@@ -36,18 +36,13 @@
    - Asegúrate de tener Rust configurado correctamente.
    - Crea un nuevo proyecto:
      ```bash
-     bash
-     Copy code
      cargo new generate_bitcoin_address
      cd generate_bitcoin_address
 
      ```
    - Añade la biblioteca `rust-bitcoin` al proyecto:
      ```bash
-     bash
-     Copy code
      cargo add bitcoin
-
      ```
 
    **Paso 2: Generar la clave privada**

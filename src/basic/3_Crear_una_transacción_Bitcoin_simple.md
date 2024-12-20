@@ -11,7 +11,8 @@
 
   - Una transacción contiene entradas (inputs) y salidas (outputs).
   - Una entrada gasta un UTXO (salida no gastada) previo, y una salida especifica un nuevo destinatario.
-    **Proceso para Crear una Transacción:**
+    
+  **Proceso para Crear una Transacción:**
 
   1. Identificar el UTXO a gastar.
   2. Crear las salidas deseadas.
@@ -42,8 +43,6 @@
   ### 4. **Código Base**
 
   ```rust
-  rust
-  Copy code
   extern crate bitcoin;
 
   use bitcoin::blockdata::transaction::{Transaction, TxIn, TxOut};

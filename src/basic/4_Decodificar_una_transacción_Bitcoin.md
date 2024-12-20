@@ -12,10 +12,14 @@
     - Decodificar una transacción implica interpretar sus entradas y salidas.
     **Estructura de una Transacción:**
     - Incluye un identificador de versión, inputs, outputs, y un locktime.
+
     ***
+    
     ### 2. **Objetivo del Ejercicio**
     Decodificar una transacción Bitcoin en formato hexadecimal y extraer sus entradas, salidas, y demás información.
+    
     ***
+    
     ### 3. **Pasos Detallados**
     **Paso 1: Proveer la transacción hex**
     - Usa una transacción hexadecimal de ejemplo.
@@ -23,11 +27,11 @@
     - Usa la función `deserialize` para convertirla a una estructura de Rust.
     **Paso 3: Extraer datos**
     - Itera por las entradas y salidas para obtener detalles como direcciones y cantidades.
+    
     ***
+    
     ### 4. **Código Base**
     ```rust
-    rust
-    Copy code
     extern crate bitcoin;
 
     use bitcoin::consensus::deserialize;
@@ -45,13 +49,20 @@
     }
 
     ```
+    
     ***
+    
     ### 5. **Tareas para Resolver**
     1. Usa una transacción real en formato hexadecimal.
     2. Extrae y muestra información como las direcciones de salida y los valores.
+    
     ***
+    
     ### 6. **Validación**
     - Compara los datos extraídos con un explorador de bloques.
+    
     ***
+    
     ### 7. **Reflexión Final**
     Este ejercicio te enseña cómo interpretar datos en crudo, una habilidad esencial para trabajar con la blockchain.
+
