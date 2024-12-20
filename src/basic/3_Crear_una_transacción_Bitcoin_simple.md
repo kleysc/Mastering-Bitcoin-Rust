@@ -1,4 +1,4 @@
-**Crear una transacción Bitcoin simple:**
+## **Crear una transacción Bitcoin simple:**
 
 - Construir una transacción con una entrada y una salida.
 - Serializarla en formato hexadecimal.
