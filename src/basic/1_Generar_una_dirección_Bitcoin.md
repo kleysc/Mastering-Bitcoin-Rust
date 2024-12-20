@@ -1,4 +1,4 @@
-1. **Generar una dirección Bitcoin:**
+**Generar una dirección Bitcoin:**
 
    - Generar una clave privada aleatoria.
    - Derivar la clave pública asociada.

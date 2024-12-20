@@ -1,3 +1,5 @@
+**Decodificar una transacción Bitcoin:**
+
 - Parsear una transacción codificada en hexadecimal.
 - Extraer sus entradas, salidas y otros detalles.
   - **_Guía_**
