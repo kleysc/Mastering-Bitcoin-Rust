@@ -1,7 +1,7 @@
 ## **Firmar y verificar mensajes:**
 
-- Usar la clave privada para firmar un mensaje.
-- Verificar la firma con la clave pública correspondiente.
+   - Usar la clave privada para firmar un mensaje.
+   - Verificar la firma con la clave pública correspondiente.
 
   ## **_Guía_**
 
