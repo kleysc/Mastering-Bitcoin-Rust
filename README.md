@@ -1,4 +1,4 @@
-# Mastering Bitcoin in Rust
+# 🦀 Mastering Bitcoin en Rust
 
 Este repositorio contiene una serie de ejercicios diseñados para aprender Rust mientras se exploran los fundamentos técnicos de Bitcoin. Los ejercicios cubren conceptos básicos como generación de direcciones Bitcoin, hasta temas avanzados como la creación de nodos y la interacción con Lightning Network.
 
