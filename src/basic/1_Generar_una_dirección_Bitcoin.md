@@ -4,7 +4,7 @@
    - Derivar la clave pública asociada.
    - Codificar la dirección en formato Base58Check.
 
-   - **_Guía_**
+  ## **_Guía_**
 
    ### 1. **Conceptos Previos**
 

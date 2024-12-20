@@ -2,7 +2,9 @@
 
 - Parsear una transacción codificada en hexadecimal.
 - Extraer sus entradas, salidas y otros detalles.
-  - **_Guía_**
+
+  ## **_Guía_**
+
     ### 1. **Conceptos Previos**
     **Transacciones Bitcoin:**
     - Las transacciones están serializadas en un formato binario compacto.

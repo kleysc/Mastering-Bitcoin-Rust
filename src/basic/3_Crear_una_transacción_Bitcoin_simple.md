@@ -3,7 +3,7 @@
 - Construir una transacción con una entrada y una salida.
 - Serializarla en formato hexadecimal.
 
-  - **_Guía_**
+  ## **_Guía_**
 
     ### 1. **Conceptos Previos**
     **Transacciones Bitcoin:**

@@ -2,7 +2,9 @@
 
 - Convertir entre diferentes formatos de claves privadas (WIF y hexadecimal).
 - Generar direcciones Bitcoin para diferentes redes (mainnet, testnet).
-  - **_Guía_**
+  
+  ## **_Guía_**
+
     ### 1. **Conceptos Previos**
     **Formatos de Claves:**
     - Las claves privadas pueden representarse en hexadecimal o en formato WIF.

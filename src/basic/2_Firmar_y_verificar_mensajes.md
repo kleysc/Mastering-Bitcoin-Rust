@@ -3,7 +3,8 @@
 - Usar la clave privada para firmar un mensaje.
 - Verificar la firma con la clave pública correspondiente.
 
-  - **_Guía_**
+  ## **_Guía_**
+
     ### 1. **Conceptos Previos**
     **Firmas Digitales:**
     - Una firma digital permite autenticar un mensaje, garantizando que proviene de un remitente específico (clave privada).
