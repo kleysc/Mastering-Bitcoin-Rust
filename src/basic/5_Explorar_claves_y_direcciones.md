@@ -1,7 +1,7 @@
 ## **Explorar claves y direcciones:**
 
   - Convertir entre diferentes formatos de claves privadas (WIF y hexadecimal).
-- Generar direcciones Bitcoin para diferentes redes (mainnet, testnet).
+  - Generar direcciones Bitcoin para diferentes redes (mainnet, testnet).
 
   ## **_Guía_**
 
