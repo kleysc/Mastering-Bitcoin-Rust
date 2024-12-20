@@ -6,46 +6,64 @@ Este repositorio contiene una serie de ejercicios diseñados para aprender Rust 
 
 ## **Plan de Aprendizaje**
 
-### **Semana 1-2: Nivel Básico**
-- **Objetivo:** Familiarizarte con Rust y los fundamentos de Bitcoin.
-- **Ejercicios:**
-  1. Generar una dirección Bitcoin.
-  2. Firmar y verificar mensajes.
-  3. Crear una transacción Bitcoin simple.
-- **Resultados esperados:**
-  - Generar y entender claves privadas, públicas y direcciones.
-  - Usar firmas digitales para mensajes.
-  - Construir una transacción básica.
+### Semana 1-2: Nivel Básico
 
-### **Semana 3-4: Nivel Intermedio**
-- **Objetivo:** Comprender transacciones avanzadas y scripts.
-- **Ejercicios:**
-  4. Decodificar una transacción Bitcoin.
-  5. Explorar claves y direcciones en formatos avanzados.
-  6. Trabajar con transacciones multifirma.
-  7. Explorar UTXOs y crear transacciones que los gasten.
-- **Resultados esperados:**
-  - Leer y analizar transacciones existentes.
-  - Implementar multifirmas y scripts personalizados.
-  - Consultar y usar UTXOs en nuevas transacciones.
+**Objetivo:** Familiarizarte con Rust y los fundamentos de Bitcoin.
 
-### **Semana 5-6: Nivel Avanzado**
-- **Objetivo:** Adquirir habilidades avanzadas en bloques, nodos y Lightning Network.
-- **Ejercicios:**
-  8. Transacciones bloqueadas por tiempo.
-  9. Firmar transacciones completas.
-  10. Explorar bloques de Bitcoin.
-  11. Construir un nodo básico.
-- **Resultados esperados:**
-  - Crear transacciones más complejas, como timelocks.
-  - Decodificar bloques y entender su estructura.
-  - Conectar un nodo a la red Bitcoin.
+**Ejercicios:**
+1. Generar una dirección Bitcoin.
+2. Firmar y verificar mensajes.
+3. Crear una transacción Bitcoin simple.
 
-### **Semana 7-8: Lightning Network (Opcional)**
-- **Ejercicio Opcional:** Interacción con Lightning Network.
-- **Resultados esperados:**
-  - Conectar a un nodo Lightning.
-  - Crear un canal y realizar pagos básicos.
+**Resultados esperados:**
+- Generar y entender claves privadas, públicas y direcciones.
+- Usar firmas digitales para mensajes.
+- Construir una transacción básica.
+
+---
+
+### Semana 3-4: Nivel Intermedio
+
+**Objetivo:** Comprender transacciones avanzadas y scripts.
+
+**Ejercicios:**
+1. Decodificar una transacción Bitcoin.
+2. Explorar claves y direcciones en formatos avanzados.
+3. Trabajar con transacciones multifirma.
+4. Explorar UTXOs y crear transacciones que los gasten.
+
+**Resultados esperados:**
+- Leer y analizar transacciones existentes.
+- Implementar multifirmas y scripts personalizados.
+- Consultar y usar UTXOs en nuevas transacciones.
+
+---
+
+### Semana 5-6: Nivel Avanzado
+
+**Objetivo:** Adquirir habilidades avanzadas en bloques, nodos y Lightning Network.
+
+**Ejercicios:**
+1. Transacciones bloqueadas por tiempo.
+2. Firmar transacciones completas.
+3. Explorar bloques de Bitcoin.
+4. Construir un nodo básico.
+
+**Resultados esperados:**
+- Crear transacciones más complejas, como timelocks.
+- Decodificar bloques y entender su estructura.
+- Conectar un nodo a la red Bitcoin.
+
+---
+
+### Semana 7-8: Lightning Network (Opcional)
+
+**Ejercicio Opcional:**
+- Interacción con Lightning Network.
+
+**Resultados esperados:**
+- Conectar a un nodo Lightning.
+- Crear un canal y realizar pagos básicos.
 
 ---
 
